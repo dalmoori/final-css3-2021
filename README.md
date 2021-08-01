@@ -4,6 +4,7 @@
 
 -   [Demo 사이트 보기](https://dalmoori.github.io/final-css3-2021/)
 -   [CSS3 독학백서 전체 코드 보기](https://github.com/dalmoori/basic-css3-2021)
+-   질문은 [Issue](https://github.com/dalmoori/final-css3-2021/issues)로 작성해주세요.
 
 ## eBook (전자책) 구매 링크
 
